@@ -1,0 +1,15 @@
+{
+  "name": "app_front_end",
+  "version": "1.0.0",
+  "description": "app evaluation front end",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sass": "npx node-sass src/scss/index.scss src/css/index.css"
+  },
+  "author": "Miguel Angel López Monzón",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^4.14.1"
+  }
+}
